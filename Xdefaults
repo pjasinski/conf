@@ -1,0 +1,6 @@
+URxvt.font: -*-terminus-*-*-*-*-16-*-*-*-*-*-*-*
+URxvt.background: [25]#000000
+URxvt.transparent: true
+URxvt.shading: 20
+URxvt.foreground: white
+URxvt.scrollBar: false

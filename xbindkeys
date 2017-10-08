@@ -1,0 +1,14 @@
+"xbacklight -dec 5"
+	    XF86MonBrightnessDown
+"xbacklight -inc 5"
+	    XF86MonBrightnessUp
+
+"pamixer --decrease 5"
+	 XF86AudioLowerVolume
+"pamixer --increase 5"
+	 XF86AudioRaiseVolume
+"pamixer -m"
+	 XF86AudioMute
+
+	 
+	   

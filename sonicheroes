@@ -1,0 +1,3 @@
+#!/bin/bash
+cd .wine/drive_c/SONICHEROES
+wine Launcher.exe

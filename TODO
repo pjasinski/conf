@@ -1,0 +1,2 @@
+- add minecraft script
+- find out a way to properly symlink scripts so that their in the PATH without fucking with permissions
